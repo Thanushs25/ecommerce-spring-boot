@@ -1,0 +1,632 @@
+[
+  {
+    "name": "Dell Inspiron 15 3552",
+    "desc": "A classic Dell Inspiron laptop, likely from the 3000 series, featuring a black chassis and running Windows 10. This model is generally aimed at everyday computing tasks, offering a balance of performance and affordability. It typically offers a comfortable keyboard and a decent display for productivity. The integrated webcam and microphone make it suitable for video calls.",
+    "imageUrl": "/src/assets/images/ProductImages/Electronics/lap1.jpg",
+    "createdAdminId": 1,
+    "categoryId": 1,
+    "subCategoryId": 1,
+    "productVariants": [
+      {
+        "price": 35000,
+        "stock": 85,
+        "attributes": {
+          "brand": "Dell",
+          "ram": "4GB",
+          "storage": "500GB HDD",
+          "processor": "Intel Celeron"
+        }
+      },
+      {
+        "price": 38000,
+        "stock": 60,
+        "attributes": {
+          "brand": "Dell",
+          "ram": "8GB",
+          "storage": "1TB HDD",
+          "processor": "Intel Core i3"
+        }
+      },
+      {
+        "price": 42000,
+        "stock": 45,
+        "attributes": {
+          "brand": "Dell",
+          "ram": "8GB",
+          "storage": "256GB SSD",
+          "processor": "Intel Core i3"
+        }
+      },
+      {
+        "price": 45000,
+        "stock": 35,
+        "attributes": {
+          "brand": "Dell",
+          "ram": "8GB",
+          "storage": "512GB SSD",
+          "processor": "Intel Core i5"
+        }
+      },
+      {
+        "price": 48000,
+        "stock": 25,
+        "attributes": {
+          "brand": "Dell",
+          "ram": "16GB",
+          "storage": "512GB SSD",
+          "processor": "Intel Core i5"
+        }
+      },
+      {
+        "price": 52000,
+        "stock": 0,
+        "attributes": {
+          "brand": "Dell",
+          "ram": "16GB",
+          "storage": "1TB SSD",
+          "processor": "Intel Core i7"
+        }
+      }
+    ]
+  },
+  {
+    "name": "HP Pavilion 15-FC0154AU",
+    "desc": "A sleek HP Pavilion laptop with a silver finish and a prominent HP logo on the display. This model is likely a modern offering from the Pavilion series, known for balancing performance and design for mainstream users. It often features a full-size keyboard and a responsive trackpad, making it pleasant for daily use. Ideal for both work and entertainment, it promises a vibrant visual experience.",
+    "imageUrl": "/src/assets/images/ProductImages/Electronics/lap2.jpg",
+    "createdAdminId": 1,
+    "categoryId": 1,
+    "subCategoryId": 1,
+    "productVariants": [
+      {
+        "price": 55000,
+        "stock": 75,
+        "attributes": {
+          "brand": "HP",
+          "ram": "8GB",
+          "storage": "512GB SSD",
+          "processor": "AMD Ryzen 5"
+        }
+      },
+      {
+        "price": 60000,
+        "stock": 50,
+        "attributes": {
+          "brand": "HP",
+          "ram": "16GB",
+          "storage": "512GB SSD",
+          "processor": "AMD Ryzen 5"
+        }
+      },
+      {
+        "price": 65000,
+        "stock": 30,
+        "attributes": {
+          "brand": "HP",
+          "ram": "16GB",
+        "storage": "1TB SSD",
+          "processor": "AMD Ryzen 7"
+        }
+      },
+      {
+        "price": 70000,
+        "stock": 25,
+        "attributes": {
+          "brand": "HP",
+          "ram": "16GB",
+          "storage": "1TB SSD",
+          "processor": "AMD Ryzen 7 with dedicated graphics"
+        }
+      },
+      {
+        "price": 75000,
+        "stock": 15,
+        "attributes": {
+          "brand": "HP",
+          "ram": "32GB",
+          "storage": "1TB SSD",
+          "processor": "AMD Ryzen 9"
+        }
+      },
+      {
+        "price": 80000,
+        "stock": 0,
+        "attributes": {
+          "brand": "HP",
+          "ram": "32GB",
+          "storage": "2TB SSD",
+          "processor": "AMD Ryzen 9"
+        }
+      }
+    ]
+  },
+  {
+    "name": "HP Pavilion 15-cs3019TX",
+    "desc": "A stylish HP Pavilion laptop in a light silver or white color, shown from an angled perspective highlighting its slim design. This model is part of the Pavilion series, offering a blend of performance and aesthetics. It typically comes with a vibrant display and robust audio, making it suitable for media consumption. Its lightweight build ensures easy portability for students and professionals alike.",
+    "imageUrl": "/src/assets/images/ProductImages/Electronics/lap3.jpg",
+    "createdAdminId": 1,
+    "categoryId": 1,
+    "subCategoryId": 1,
+    "productVariants": [
+      {
+        "price": 62000,
+        "stock": 80,
+        "attributes": {
+          "brand": "HP",
+          "ram": "8GB",
+          "storage": "256GB SSD + 1TB HDD",
+          "processor": "Intel Core i5"
+        }
+      },
+      {
+        "price": 68000,
+        "stock": 55,
+        "attributes": {
+          "brand": "HP",
+          "ram": "16GB",
+          "storage": "512GB SSD",
+          "processor": "Intel Core i7"
+        }
+      },
+      {
+        "price": 75000,
+        "stock": 35,
+        "attributes": {
+          "brand": "HP",
+          "ram": "16GB",
+          "storage": "1TB SSD",
+          "processor": "Intel Core i7"
+        }
+      },
+      {
+        "price": 80000,
+        "stock": 25,
+        "attributes": {
+          "brand": "HP",
+          "ram": "16GB",
+          "storage": "1TB SSD",
+          "processor": "Intel Core i7 with dedicated graphics"
+        }
+      },
+      {
+        "price": 85000,
+        "stock": 15,
+        "attributes": {
+          "brand": "HP",
+          "ram": "32GB",
+          "storage": "1TB SSD",
+          "processor": "Intel Core i9"
+        }
+      },
+      {
+        "price": 90000,
+        "stock": 0,
+        "attributes": {
+          "brand": "HP",
+          "ram": "32GB",
+          "storage": "2TB SSD",
+          "processor": "Intel Core i9"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Lenovo IdeaPad 5",
+    "desc": "A modern Lenovo IdeaPad 5 laptop with a sleek, light gray design, showcasing a vibrant display. The IdeaPad series is known for offering a good balance of features, performance, and value for everyday users. Its narrow bezels maximize screen space for an immersive viewing experience. With a comfortable keyboard and multiple ports, it's designed for practical daily computing.",
+    "imageUrl": "/src/assets/images/ProductImages/Electronics/lap4.jpg",
+    "createdAdminId": 1,
+    "categoryId": 1,
+    "subCategoryId": 1,
+    "productVariants": [
+      {
+        "price": 50000,
+        "stock": 90,
+        "attributes": {
+          "brand": "Lenovo",
+          "ram": "8GB",
+          "storage": "256GB SSD",
+          "processor": "AMD Ryzen 3"
+        }
+      },
+      {
+        "price": 58000,
+        "stock": 65,
+        "attributes": {
+          "brand": "Lenovo",
+          "ram": "8GB",
+          "storage": "512GB SSD",
+          "processor": "AMD Ryzen 5"
+        }
+      },
+      {
+        "price": 65000,
+        "stock": 40,
+        "attributes": {
+          "brand": "Lenovo",
+          "ram": "16GB",
+          "storage": "512GB SSD",
+          "processor": "AMD Ryzen 7"
+        }
+      },
+      {
+        "price": 70000,
+        "stock": 30,
+        "attributes": {
+          "brand": "Lenovo",
+          "ram": "16GB",
+          "storage": "1TB SSD",
+          "processor": "AMD Ryzen 7"
+        }
+      },
+      {
+        "price": 75000,
+        "stock": 20,
+        "attributes": {
+          "brand": "Lenovo",
+          "ram": "16GB",
+          "storage": "1TB SSD",
+          "processor": "Intel Core i7"
+        }
+      },
+      {
+        "price": 80000,
+        "stock": 0,
+        "attributes": {
+          "brand": "Lenovo",
+          "ram": "32GB",
+          "storage": "1TB SSD",
+          "processor": "Intel Core i7"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Dell XPS 13 Plus",
+    "desc": "A premium Dell XPS 13 Plus laptop, featuring a minimalist silver design and a near bezel-less display, indicative of its high-end status. The XPS line is known for its exceptional build quality, performance, and portability. It boasts an innovative keyboard and trackpad design, offering a seamless user experience. Perfect for creative professionals and those seeking cutting-edge technology.",
+    "imageUrl": "/src/assets/images/ProductImages/Electronics/lap5.jpg",
+    "createdAdminId": 1,
+    "categoryId": 1,
+    "subCategoryId": 1,
+    "productVariants": [
+      {
+        "price": 120000,
+        "stock": 50,
+        "attributes": {
+          "brand": "Dell",
+          "ram": "16GB",
+          "storage": "512GB SSD",
+          "processor": "Intel Core i7"
+        }
+      },
+      {
+        "price": 135000,
+        "stock": 35,
+        "attributes": {
+          "brand": "Dell",
+          "ram": "16GB",
+          "storage": "1TB SSD",
+          "processor": "Intel Core i7"
+        }
+      },
+      {
+        "price": 150000,
+        "stock": 20,
+        "attributes": {
+          "brand": "Dell",
+          "ram": "32GB",
+          "storage": "1TB SSD",
+          "processor": "Intel Core i9"
+        }
+      },
+      {
+        "price": 165000,
+        "stock": 15,
+        "attributes": {
+          "brand": "Dell",
+          "ram": "32GB",
+          "storage": "2TB SSD",
+          "processor": "Intel Core i9"
+        }
+      },
+      {
+        "price": 180000,
+        "stock": 10,
+        "attributes": {
+          "brand": "Dell",
+          "ram": "64GB",
+          "storage": "2TB SSD",
+          "processor": "Intel Core i9"
+        }
+      },
+      {
+        "price": 195000,
+        "stock": 0,
+        "attributes": {
+          "brand": "Dell",
+          "ram": "64GB",
+          "storage": "4TB SSD",
+          "processor": "Intel Core i9"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Apple MacBook Pro",
+    "desc": "A classic Apple MacBook Pro, sitting on its original box, featuring a silver aluminum unibody design. This model is likely from an earlier generation, known for its robust performance and macOS ecosystem. It offers a high-resolution Retina display for crisp visuals and a powerful processor for demanding tasks. The premium build quality ensures durability and a sophisticated aesthetic.",
+    "imageUrl": "/src/assets/images/ProductImages/Electronics/lap6.jpg",
+    "createdAdminId": 1,
+    "categoryId": 1,
+    "subCategoryId": 1,
+    "productVariants": [
+      {
+        "price": 90000,
+        "stock": 40,
+        "attributes": {
+          "brand": "Apple",
+          "ram": "8GB",
+          "storage": "256GB SSD",
+          "processor": "Intel Core i5"
+        }
+      },
+      {
+        "price": 105000,
+        "stock": 30,
+        "attributes": {
+          "brand": "Apple",
+          "ram": "16GB",
+          "storage": "512GB SSD",
+          "processor": "Intel Core i7"
+        }
+      },
+      {
+        "price": 120000,
+        "stock": 20,
+        "attributes": {
+          "brand": "Apple",
+          "ram": "16GB",
+          "storage": "1TB SSD",
+          "processor": "Intel Core i7"
+        }
+      },
+      {
+        "price": 135000,
+        "stock": 15,
+        "attributes": {
+          "brand": "Apple",
+          "ram": "32GB",
+          "storage": "1TB SSD",
+          "processor": "Intel Core i9"
+        }
+      },
+      {
+        "price": 150000,
+        "stock": 10,
+        "attributes": {
+          "brand": "Apple",
+          "ram": "32GB",
+          "storage": "2TB SSD",
+          "processor": "Intel Core i9"
+        }
+      },
+      {
+        "price": 165000,
+        "stock": 0,
+        "attributes": {
+          "brand": "Apple",
+          "ram": "64GB",
+          "storage": "2TB SSD",
+          "processor": "Intel Core i9"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Acer Aspire V3-472P",
+    "desc": "An Acer Aspire laptop with a silver and black two-tone design, showcasing a Windows 8 era interface. The Aspire series is known for providing versatile laptops for general computing needs. It often features a comfortable keyboard and a decent selection of ports for connectivity. This model is a solid choice for everyday productivity and multimedia consumption.",
+    "imageUrl": "/src/assets/images/ProductImages/Electronics/lap7.jpg",
+    "createdAdminId": 1,
+    "categoryId": 1,
+    "subCategoryId": 1,
+    "productVariants": [
+      {
+        "price": 40000,
+        "stock": 70,
+        "attributes": {
+          "brand": "Acer",
+          "ram": "4GB",
+          "storage": "500GB HDD",
+          "processor": "Intel Core i3"
+        }
+      },
+      {
+        "price": 45000,
+        "stock": 50,
+        "attributes": {
+          "brand": "Acer",
+          "ram": "8GB",
+          "storage": "1TB HDD",
+          "processor": "Intel Core i5"
+        }
+      },
+      {
+        "price": 50000,
+        "stock": 30,
+        "attributes": {
+          "brand": "Acer",
+          "ram": "8GB",
+          "storage": "256GB SSD",
+          "processor": "Intel Core i5"
+        }
+      },
+      {
+        "price": 55000,
+        "stock": 25,
+        "attributes": {
+          "brand": "Acer",
+          "ram": "16GB",
+          "storage": "512GB SSD",
+          "processor": "Intel Core i7"
+        }
+      },
+      {
+        "price": 60000,
+        "stock": 0,
+        "attributes": {
+          "brand": "Acer",
+          "ram": "16GB",
+          "storage": "1TB SSD",
+          "processor": "Intel Core i7"
+        }
+      },
+      {
+        "price": 65000,
+        "stock": 10,
+        "attributes": {
+          "brand": "Acer",
+          "ram": "16GB",
+          "storage": "1TB SSD + dedicated graphics",
+          "processor": "Intel Core i7"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Apple MacBook (12-inch Rose Gold)",
+    "desc": "A compact and stylish Apple MacBook in a unique rose gold finish, featuring a slim profile. This 12-inch model was known for its portability and fanless design. Its stunning Retina display provides crisp and vibrant visuals, perfect for on-the-go productivity and media consumption. The Force Touch trackpad offers precise control and a unique tactile experience.",
+    "imageUrl": "/src/assets/images/ProductImages/Electronics/lap8.jpg",
+    "createdAdminId": 1,
+    "categoryId": 1,
+    "subCategoryId": 1,
+    "productVariants": [
+      {
+        "price": 80000,
+        "stock": 30,
+        "attributes": {
+          "brand": "Apple",
+          "ram": "8GB",
+          "storage": "256GB SSD",
+          "processor": "Intel Core m3"
+        }
+      },
+      {
+        "price": 95000,
+        "stock": 20,
+        "attributes": {
+          "brand": "Apple",
+          "ram": "8GB",
+          "storage": "512GB SSD",
+          "processor": "Intel Core i5"
+        }
+      },
+      {
+        "price": 105000,
+        "stock": 15,
+        "attributes": {
+          "brand": "Apple",
+          "ram": "16GB",
+          "storage": "512GB SSD",
+          "processor": "Intel Core i5"
+        }
+      },
+      {
+        "price": 115000,
+        "stock": 10,
+        "attributes": {
+          "brand": "Apple",
+          "ram": "16GB",
+          "storage": "1TB SSD",
+          "processor": "Intel Core i7"
+        }
+      },
+      {
+        "price": 125000,
+        "stock": 5,
+        "attributes": {
+          "brand": "Apple",
+          "ram": "16GB",
+          "storage": "1TB SSD",
+          "processor": "Intel Core i7 (higher clock speed)"
+        }
+      },
+      {
+        "price": 135000,
+        "stock": 0,
+        "attributes": {
+          "brand": "Apple",
+          "ram": "16GB",
+          "storage": "1TB SSD",
+          "processor": "Intel Core i7 (top tier)"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Lenovo ThinkPad E15 Gen 2",
+    "desc": "A robust Lenovo ThinkPad laptop, characterized by its signature black design and TrackPoint. The ThinkPad E-series is known for its business-oriented features, durability, and reliable performance. It offers a spill-resistant keyboard and strong security features, making it ideal for professional environments. Its robust construction ensures long-term reliability for everyday business tasks.",
+    "imageUrl": "/src/assets/images/ProductImages/Electronics/lap9.jpg",
+    "createdAdminId": 1,
+    "categoryId": 1,
+    "subCategoryId": 1,
+    "productVariants": [
+      {
+        "price": 60000,
+        "stock": 70,
+        "attributes": {
+          "brand": "Lenovo",
+          "ram": "8GB",
+          "storage": "256GB SSD",
+          "processor": "Intel Core i5"
+        }
+      },
+      {
+        "price": 70000,
+        "stock": 50,
+        "attributes": {
+          "brand": "Lenovo",
+          "ram": "16GB",
+          "storage": "512GB SSD",
+          "processor": "Intel Core i7"
+        }
+      },
+      {
+        "price": 78000,
+        "stock": 30,
+        "attributes": {
+          "brand": "Lenovo",
+          "ram": "16GB",
+          "storage": "1TB SSD",
+          "processor": "Intel Core i7"
+        }
+      },
+      {
+        "price": 85000,
+        "stock": 25,
+        "attributes": {
+          "brand": "Lenovo",
+          "ram": "16GB",
+          "storage": "1TB SSD",
+          "processor": "Intel Core i7 with dedicated graphics"
+        }
+      },
+      {
+        "price": 92000,
+        "stock": 0,
+        "attributes": {
+          "brand": "Lenovo",
+          "ram": "32GB",
+          "storage": "1TB SSD",
+          "processor": "Intel Core i9"
+        }
+      },
+      {
+	  "price": 98000,
+        "stock": 10,
+        "attributes": {
+          "brand": "Lenovo",
+          "ram": "32GB",
+          "storage": "2TB SSD",
+          "processor": "Intel Core i9"
+        }
+      }
+    ]
+  }
+]

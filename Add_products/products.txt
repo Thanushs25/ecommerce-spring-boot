@@ -1,0 +1,964 @@
+Product::1.
+
+{
+  "name": "Bubblegummers Slip on Loafers For Boys",
+  "desc": "This is a single navy blue child's slip-on shoe, designed for comfort and ease of wear. It features a playful dinosaur print in contrasting green and white, complemented by a bright neon green collar and heel tab. The shoe is constructed with a flexible, lightweight design and a durable white sole, making it suitable for active young children.",
+  "imageUrl":"/src/assets/images/ProductImages/Footware/kid1.jpg",
+  "createdAdminId":1,
+  "categoryId":3,
+  "subCategoryId":8,
+  "productVariants": [
+    {
+      "price": 377,
+      "stock": 10,
+      "attributes": {
+        "brand":"Bubblegummers",
+	  "size":"10-14 Years (10)",
+	  "colour":"Blue"
+     }
+    },
+    {
+      "price": 377,
+      "stock": 30,
+      "attributes": {
+        "brand":"Bubblegummers",
+	  "size":"14-16 Years (6)",
+	  "colour":"Blue"
+     }
+    },
+    {
+      "price": 377,
+      "stock": 300,
+      "attributes": {
+        "brand":"Bubblegummers",
+        "size":"16 Years and Above (12)",
+	  "colour":"Blue"
+     }
+    },
+    {
+      "price": 377,
+      "stock": 10,
+      "attributes": {
+        "brand":"Bubblegummers",
+        "size":" 1-3.5 Years (2)",
+	  "colour":"Blue"
+      }
+     },
+    {
+      "price": 377,
+      "stock": 0,
+      "attributes": {
+        "brand":"Bubblegummers",
+        "size":" 4-6 Years (2)",
+	  "colour":"Blue"
+     }
+    }
+  ]
+}
+
+
+Product::2.
+
+
+{
+  "name": "Bubblegummers Slip-on Flats For Girls",
+  "desc": " vibrant pink children's sandal with a contrasting lighter pink sole. The design includes two sturdy straps across the foot and an adjustable heel strap, fastened with a prominent black button. A charming, multi-toned seahorse appliqué adorns the front strap, adding a playful touch to this durable and practical footwear.",
+  "imageUrl":"/src/assets/images/ProductImages/Footware/kid2.jpg",
+  "createdAdminId":1,
+  "categoryId":3,
+  "subCategoryId":8,
+  "productVariants": [
+    {
+      "price": 370,
+      "stock": 10,
+      "attributes": {
+        "brand":"Bubblegummers",
+	  "size":"10-14 Years (10)",
+	  "colour":"Pink"
+     }
+    },
+    {
+      "price": 370,
+      "stock": 30,
+      "attributes": {
+        "brand":"Bubblegummers",
+	  "size":"14-16 Years (6)",
+	  "colour":"Pink"
+     }
+    },
+    {
+      "price": 370,
+      "stock": 300,
+      "attributes": {
+        "brand":"Bubblegummers",
+        "size":"16 Years and Above (12)",
+	  "colour":"Pink"
+     }
+    },
+    {
+      "price": 370,
+      "stock": 10,
+      "attributes": {
+        "brand":"Bubblegummers",
+        "size":" 1-3.5 Years (2)",
+	  "colour":"Pink"
+      }
+     },
+    {
+      "price": 370,
+      "stock": 0,
+      "attributes": {
+        "brand":"Bubblegummers",
+        "size":" 4-6 Years (2)",
+	  "colour":"Pink"
+     }
+    }
+  ]
+}
+
+
+Product::3.
+
+{
+  "name": "Bubblegummers Velcro Walking Shoes For Boys & Girls",
+  "desc": "navy blue children's sneaker, featuring a dynamic Captain America graphic on the side panel. The shoe incorporates bold red accents on the inner lining and dual Velcro straps for easy adjustability and a secure fit. A distinctive Captain America shield emblem is prominently displayed on the upper strap, while the design is completed with a clean white sole that appears to have translucent light-up capabilities at the heel.",
+  "imageUrl":"/src/assets/images/ProductImages/Footware/kid3.jpg",
+  "createdAdminId":1,
+  "categoryId":3,
+  "subCategoryId":8,
+  "productVariants": [
+    {
+      "price": 1,454,
+      "stock": 10,
+      "attributes": {
+        "brand":"Bubblegummers",
+	  "size":"10-14 Years (10)",
+	  "colour":"Blue"
+     }
+    },
+    {
+      "price": 1,454,
+      "stock": 30,
+      "attributes": {
+        "brand":"Bubblegummers",
+	  "size":"14-16 Years (6)",
+	  "colour":"Blue"
+     }
+    },
+    {
+      "price": 1,454,
+      "stock": 300,
+      "attributes": {
+        "brand":"Bubblegummers",
+        "size":"16 Years and Above (12)",
+	  "colour":"Blue"
+     }
+    },
+    {
+      "price": 1,454,
+      "stock": 10,
+      "attributes": {
+        "brand":"Bubblegummers",
+        "size":" 1-3.5 Years (2)",
+	  "colour":"Blue"
+      }
+     },
+    {
+      "price": 1,454,
+      "stock": 0,
+      "attributes": {
+        "brand":"Bubblegummers",
+        "size":" 4-6 Years (2)",
+	  "colour":"Blue"
+     }
+    }
+  ]
+}
+
+
+
+Product::4.
+
+{
+  "name": "Bubblegummers Velcro Sports Sandals For Boys",
+  "desc": "children's sandal in a striking combination of dark grey and neon yellow. It features two adjustable hook-and-loop straps across the instep and ankle for a secure fit. The design is enhanced with subtle geometric patterns on the grey straps and a translucent, ridged outsole that suggests both durability and a playful aesthetic, likely incorporating light-up features.",
+  "imageUrl":"/src/assets/images/ProductImages/Footware/kid3.jpg",
+  "createdAdminId":1,
+  "categoryId":3,
+  "subCategoryId":8,
+  "productVariants": [
+    {
+      "price": 1026,
+      "stock": 10,
+      "attributes": {
+        "brand":"Bubblegummers",
+	  "size":"10-14 Years (10)",
+	  "colour":"Blue"
+     }
+    },
+    {
+      "price": 1026,
+      "stock": 30,
+      "attributes": {
+        "brand":"Bubblegummers",
+	  "size":"14-16 Years (6)",
+	  "colour":"Blue"
+     }
+    },
+    {
+      "price": 1026,
+      "stock": 300,
+      "attributes": {
+        "brand":"Bubblegummers",
+        "size":"16 Years and Above (12)",
+	  "colour":"Blue"
+     }
+    },
+    {
+      "price": 1026,
+      "stock": 10,
+      "attributes": {
+        "brand":"Bubblegummers",
+        "size":" 1-3.5 Years (2)",
+	  "colour":"Blue"
+      }
+     },
+    {
+      "price": 1026,
+      "stock": 0,
+      "attributes": {
+        "brand":"Bubblegummers",
+        "size":" 4-6 Years (2)",
+	  "colour":"Blue"
+     }
+    }
+  ]
+}
+
+Product::5.
+
+{
+  "name": "Disney Unisex Kids Colourblocked Slip-On Sneakers",
+  "desc": "predominantly in dark green and charcoal grey, adorned with a dynamic Hulk graphic on the side panel. The shoe is equipped with two adjustable hook-and-loop straps, one accented with a purple and green Hulk emblem, ensuring a secure fit. It is finished with a white sole that appears to have translucent segments, suggesting an illuminated design for playful visibility.",
+  "imageUrl":"/src/assets/images/ProductImages/Footware/kid5.jpg",
+  "createdAdminId":1,
+  "categoryId":3,
+  "subCategoryId":8,
+  "productVariants": [
+    {
+      "price": 899,
+      "stock": 10,
+      "attributes": {
+        "brand":"Disney",
+	  "size":"10-14 Years (10)",
+	  "colour":"Green"
+     }
+    },
+    {
+      "price": 899,
+      "stock": 30,
+      "attributes": {
+        "brand":"Disney",
+	  "size":"14-16 Years (6)",
+	  "colour":"Green"
+     }
+    },
+    {
+      "price": 899,
+      "stock": 300,
+      "attributes": {
+        "brand":"Disney",
+        "size":"16 Years and Above (12)",
+	  "colour":"Green"
+     }
+    },
+    {
+      "price": 899,
+      "stock": 10,
+      "attributes": {
+        "brand":"Disney",
+        "size":" 1-3.5 Years (2)",
+	  "colour":"Green"
+      }
+     },
+    {
+      "price": 899,
+      "stock": 0,
+      "attributes": {
+        "brand":"Disney",
+        "size":" 4-6 Years (2)",
+	  "colour":"Green"
+     }
+    }
+  ]
+}
+
+
+Product::6.
+
+{
+  "name": "BATA POWER NAVY SPORTS SHOES FOR MEN",
+  "desc": "men's athletic shoe in a deep navy blue, designed for performance and style. The upper features a breathable mesh construction with subtle tonal overlays, complemented by striking accents of bright blue and orange around the collar and lacing system. A prominent white stylized logo is displayed on the side, and the shoe is grounded by a thick, contrasting white sole, indicating cushioned support.",
+  "imageUrl":"/src/assets/images/ProductImages/Footware/men1.jpg",
+  "createdAdminId":1,
+  "categoryId":3,
+  "subCategoryId":6,
+  "productVariants": [
+    {
+      "price": 1999,
+      "stock": 10,
+      "attributes": {
+        "brand":"BATA",
+	  "size":"6",
+	  "colour":"NAVY"
+     }
+    },
+    {
+      "price": 1999,
+      "stock": 30,
+      "attributes": {
+        "brand":"BATA",
+	  "size":"7",
+	  "colour":"NAVY"
+     }
+    },
+    {
+      "price": 1999,
+      "stock": 300,
+      "attributes": {
+        "brand":"BATA",
+        "size":"8",
+	  "colour":"NAVY"
+     }
+    },
+    {
+      "price": 1999,
+      "stock": 10,
+      "attributes": {
+        "brand":"BATA",
+        "size":"9",
+	  "colour":"NAVY"
+      }
+     },
+    {
+      "price": 1999,
+      "stock": 0,
+      "attributes": {
+        "brand":"BATA",
+        "size":"10",
+	  "colour":"NAVY"
+     }
+    }
+  ]
+}
+
+
+
+Product::7.
+
+
+{
+  "name": "Weinbrenner Brown Outdoor Shoes for Men",
+  "desc": "men's low-cut hiking or trail shoe in a rich dark brown, designed for rugged outdoor activities. The upper is constructed with durable synthetic materials, complemented by black reinforced toe and heel guards for protection. It boasts a substantial two-toned sole in black and light brown, equipped with a deep lug pattern for superior traction on varied terrains.",
+  "imageUrl":"/src/assets/images/ProductImages/Footware/men2.jpg",
+  "createdAdminId":1,
+  "categoryId":3,
+  "subCategoryId":6,
+  "productVariants": [
+    {
+      "price": 2599,
+      "stock": 10,
+      "attributes": {
+        "brand":"BATA",
+	  "size":"6",
+	  "colour":"BROWN"
+     }
+    },
+    {
+      "price": 2599,
+      "stock": 30,
+      "attributes": {
+        "brand":"BATA",
+	  "size":"7",
+	  "colour":"BROWN"
+     }
+    },
+    {
+      "price": 2599,
+      "stock": 300,
+      "attributes": {
+        "brand":"BATA",
+        "size":"8",
+	  "colour":"BROWN"
+     }
+    },
+    {
+      "price": 2599,
+      "stock": 10,
+      "attributes": {
+        "brand":"BATA",
+        "size":"9",
+	  "colour":"BROWN"
+      }
+     },
+    {
+      "price": 2599,
+      "stock": 0,
+      "attributes": {
+        "brand":"BATA",
+        "size":"10",
+	  "colour":"BROWN"
+     }
+    }
+  ]
+}
+
+
+
+Product::8.
+
+
+{
+  "name": "JA 2 EP Basketball Shoes",
+  "desc": "sleek, black athletic shoe designed for dynamic performance. It features prominent teal accents, including a large side swoosh logo and a distinctive gradient effect on the outsole. The upper incorporates textured ridges and a breathable mesh toe box, while the overall low-profile design suggests agility and responsive cushioning for sport-specific use.",
+  "imageUrl":"/src/assets/images/ProductImages/Footware/men3.jpg",
+  "createdAdminId":1,
+  "categoryId":3,
+  "subCategoryId":6,
+  "productVariants": [
+    {
+      "price":  10795,
+      "stock": 10,
+      "attributes": {
+        "brand":"Nike",
+	  "size":"6",
+	  "colour":"BLACK"
+     }
+    },
+    {
+      "price":  10795,
+      "stock": 30,
+      "attributes": {
+        "brand":"Nike",
+	  "size":"7",
+	  "colour":"BLACK"
+     }
+    },
+    {
+      "price":  10795,
+      "stock": 300,
+      "attributes": {
+        "brand":"Nike",
+        "size":"8",
+	  "colour":"BLACK"
+     }
+    },
+    {
+      "price":  10795,
+      "stock": 10,
+      "attributes": {
+        "brand":"Nike",
+        "size":"9",
+	  "colour":"BLACK"
+      }
+     },
+    {
+      "price":  10795,
+      "stock": 0,
+      "attributes": {
+        "brand":"Nike",
+        "size":"10",
+	  "colour":"BLACK"
+     }
+    }
+  ]
+}
+
+
+Product::9.
+
+
+{
+  "name": "Power Men's COSMOS Outdoor",
+  "desc": "men's outdoor sandal in a robust black and grey color scheme with dynamic red accents. It features a durable synthetic upper with intricate patterns and multiple adjustable straps, including a prominent brand logo on the top strap. The design is completed with a sturdy, lugged outsole in grey and black, indicating readiness for diverse terrains and active wear.",
+  "imageUrl":"/src/assets/images/ProductImages/Footware/men4.jpg",
+  "createdAdminId":1,
+  "categoryId":3,
+  "subCategoryId":6,
+  "productVariants": [
+    {
+      "price":  1199,
+      "stock": 10,
+      "attributes": {
+        "brand":"Power",
+	  "size":"6",
+	  "colour":"Grey"
+     }
+    },
+    {
+      "price":  1199,
+      "stock": 30,
+      "attributes": {
+        "brand":"Power",
+	  "size":"7",
+	  "colour":"Grey"
+     }
+    },
+    {
+      "price":  1199,
+      "stock": 300,
+      "attributes": {
+        "brand":"Power",
+        "size":"8",
+	  "colour":"Grey"
+     }
+    },
+    {
+      "price":  1199,
+      "stock": 10,
+      "attributes": {
+        "brand":"Power",
+        "size":"9",
+	  "colour":"Grey"
+      }
+     },
+    {
+      "price":  1199,
+      "stock": 0,
+      "attributes": {
+        "brand":"Power",
+        "size":"10",
+	  "colour":"Grey"
+     }
+    }
+  ]
+}
+
+
+
+Product::10.
+
+
+{
+  "name": "ADIDAS Men Slippers",
+  "desc": "navy blue flip-flop, viewed from a top-down perspective, highlighting its minimalist design. The wide strap features a prominent white "adidas" logo vertically oriented. The overall sleek and lightweight construction suggests suitability for casual wear or poolside comfort.",
+  "imageUrl":"/src/assets/images/ProductImages/Footware/men5.jpg",
+  "createdAdminId":1,
+  "categoryId":3,
+  "subCategoryId":6,
+  "productVariants": [
+    {
+      "price":  1093,
+      "stock": 10,
+      "attributes": {
+        "brand":"ADIDAS",
+	  "size":"6",
+	  "colour":"Blue"
+     }
+    },
+    {
+      "price":  1093,
+      "stock": 30,
+      "attributes": {
+        "brand":"ADIDAS",
+	  "size":"7",
+	  "colour":"Blue"
+     }
+    },
+    {
+      "price":  1093,
+      "stock": 300,
+      "attributes": {
+        "brand":"ADIDAS",
+        "size":"8",
+	  "colour":"Blue"
+     }
+    },
+    {
+      "price":  1093,
+      "stock": 10,
+      "attributes": {
+        "brand":"ADIDAS",
+        "size":"9",
+	  "colour":"Blue"
+      }
+     },
+    {
+      "price":  1093,
+      "stock": 0,
+      "attributes": {
+        "brand":"ADIDAS",
+        "size":"10",
+	  "colour":"Blue"
+     }
+    }
+  ]
+}
+
+
+
+Product::11.
+
+
+{
+  "name": "Bata Men FLOATZ MENS CLOG Clogs Sandal",
+  "desc": "navy blue men's clog, characterized by its durable, molded construction. The upper features a series of horizontal ventilation slits, providing breathability, while a rotating back strap offers versatile wear as either a slide or a secured sandal. Its design suggests comfort and practicality for casual use or water-related activities.",
+  "imageUrl":"/src/assets/images/ProductImages/Footware/men6.jpg",
+  "createdAdminId":1,
+  "categoryId":3,
+  "subCategoryId":6,
+  "productVariants": [
+    {
+      "price":  999,
+      "stock": 10,
+      "attributes": {
+        "brand":"Bata",
+	  "size":"6",
+	  "colour":"Blue"
+     }
+    },
+    {
+      "price":  999,
+      "stock": 30,
+      "attributes": {
+        "brand":"Bata",
+	  "size":"7",
+	  "colour":"Blue"
+     }
+    },
+    {
+      "price":  999,
+      "stock": 300,
+      "attributes": {
+        "brand":"Bata",
+        "size":"8",
+	  "colour":"Blue"
+     }
+    },
+    {
+      "price":  999,
+      "stock": 10,
+      "attributes": {
+        "brand":"Bata",
+        "size":"9",
+	  "colour":"Blue"
+      }
+     },
+    {
+      "price":  999,
+      "stock": 0,
+      "attributes": {
+        "brand":"Bata",
+        "size":"10",
+	  "colour":"Blue"
+     }
+    }
+  ]
+}
+
+
+
+
+Product::12.
+
+
+{
+  "name": "North Star Women Trekking Shoes",
+  "desc": "women's athletic sneaker in a soft peach and white color palette, designed for walking or casual wear. The upper combines breathable mesh with smooth overlays, accented by two prominent white stripes on the side. It rests on a thick, sculpted white sole with subtle pink speckling, suggesting comfort and modern style.",
+  "imageUrl":"/src/assets/images/ProductImages/Footware/women1.jpg",
+  "createdAdminId":1,
+  "categoryId":3,
+  "subCategoryId":7,
+  "productVariants": [
+    {
+      "price":  2499,
+      "stock": 10,
+      "attributes": {
+        "brand":"North Star",
+	  "size":"6",
+	  "colour":"Pink"
+     }
+    },
+    {
+      "price":  2499,
+      "stock": 30,
+      "attributes": {
+        "brand":"North Star",
+	  "size":"7",
+	  "colour":"Pink"
+     }
+    },
+    {
+      "price":  2499,
+      "stock": 300,
+      "attributes": {
+        "brand":"North Star",
+        "size":"8",
+	  "colour":"Pink"
+     }
+    },
+    {
+      "price":  2499,
+      "stock": 10,
+      "attributes": {
+        "brand":"North Star",
+        "size":"9",
+	  "colour":"Pink"
+      }
+     },
+    {
+      "price":  2499,
+      "stock": 0,
+      "attributes": {
+        "brand":"North Star",
+        "size":"10",
+	  "colour":"Pink"
+     }
+    }
+  ]
+}
+
+
+Product::13.
+
+
+{
+  "name": "Bata Women Bellies Sandal",
+  "desc": "black slingback kitten heel, designed with a sophisticated pointed toe. The upper features a subtle textured or perforated pattern, adding a touch of detail to its classic silhouette. It is equipped with a slender strap extending from the vamp to the heel, securing the foot, and rests on a modest, curved heel.",
+  "imageUrl":"/src/assets/images/ProductImages/Footware/women2.jpg",
+  "createdAdminId":1,
+  "categoryId":3,
+  "subCategoryId":7,
+  "productVariants": [
+    {
+      "price":  1080,
+      "stock": 10,
+      "attributes": {
+        "brand":"Bata",
+	  "size":"6",
+	  "colour":"Black"
+     }
+    },
+    {
+      "price":  1080,
+      "stock": 30,
+      "attributes": {
+        "brand":"Bata",
+	  "size":"7",
+	  "colour":"Black"
+     }
+    },
+    {
+      "price":  1080,
+      "stock": 300,
+      "attributes": {
+        "brand":"Bata",
+        "size":"8",
+	  "colour":"Black"
+     }
+    },
+    {
+      "price":  1080,
+      "stock": 10,
+      "attributes": {
+        "brand":"Bata",
+        "size":"9",
+	  "colour":"Black"
+      }
+     },
+    {
+      "price":  1080,
+      "stock": 0,
+      "attributes": {
+        "brand":"Bata",
+        "size":"10",
+	  "colour":"Black"
+     }
+    }
+  ]
+}
+
+
+
+
+Product::14.
+
+
+{
+  "name": "Sandak Slipper",
+  "desc": "vibrant fuchsia-pink slide sandal, constructed from a single molded material. It features two wide straps across the forefoot, each with a decorative buckle detail, and rests on a flat, tonal sole with a slight dark contrast line. The design suggests a comfortable and water-friendly option for casual wear.",
+  "imageUrl":"/src/assets/images/ProductImages/Footware/women4.jpg",
+  "createdAdminId":1,
+  "categoryId":3,
+  "subCategoryId":7,
+  "productVariants": [
+    {
+      "price":  273,
+      "stock": 10,
+      "attributes": {
+        "brand":"Sandak",
+	  "size":"6",
+	  "colour":"PINK"
+     }
+    },
+    {
+      "price":  273,
+      "stock": 30,
+      "attributes": {
+        "brand":"Sandak",
+	  "size":"7",
+	  "colour":"PINK"
+     }
+    },
+    {
+      "price":  273,
+      "stock": 300,
+      "attributes": {
+        "brand":"Sandak",
+        "size":"8",
+	  "colour":"PINK"
+     }
+    },
+    {
+      "price":  273,
+      "stock": 10,
+      "attributes": {
+        "brand":"Sandak",
+        "size":"9",
+	  "colour":"PINK"
+      }
+     },
+    {
+      "price":  273,
+      "stock": 0,
+      "attributes": {
+        "brand":"Sandak",
+        "size":"10",
+	  "colour":"PINK"
+     }
+    }
+  ]
+}
+
+
+
+Product::15.
+
+
+{
+  "name": "Bata Women Flip Flops",
+  "desc": "vibrant pink flip-flop with a contoured footbed and a classic thong strap design. The side of the sole features distinct white horizontal stripes and the FLOATZ brand name in red lettering, indicating a lightweight and water-friendly construction.",
+  "imageUrl":"/src/assets/images/ProductImages/Footware/women5.jpg",
+  "createdAdminId":1,
+  "categoryId":3,
+  "subCategoryId":7,
+  "productVariants": [
+    {
+      "price":  1259,
+      "stock": 10,
+      "attributes": {
+        "brand":"Bata",
+	  "size":"6",
+	  "colour":"PINK"
+     }
+    },
+    {
+      "price":  1259,
+      "stock": 30,
+      "attributes": {
+        "brand":"Bata",
+	  "size":"7",
+	  "colour":"PINK"
+     }
+    },
+    {
+      "price":  1259,
+      "stock": 300,
+      "attributes": {
+        "brand":"Bata",
+        "size":"8",
+	  "colour":"PINK"
+     }
+    },
+    {
+      "price":  1259,
+      "stock": 10,
+      "attributes": {
+        "brand":"Bata",
+        "size":"9",
+	  "colour":"PINK"
+      }
+     },
+    {
+      "price":  1259,
+      "stock": 0,
+      "attributes": {
+        "brand":"Bata",
+        "size":"10",
+	  "colour":"PINK"
+     }
+    }
+  ]
+}
+
+
+
+
+Product::16.
+
+
+{
+  "name": "BATA Women Round-Toe Slip-On Shoes",
+  "desc": "women's slip-on loafer in a soft lilac hue. The upper features a subtle textured, possibly crocodile-embossed, pattern, with a classic penny loafer strap detail. The shoe is finished with visible stitching around the moc toe and rests on a thin white midsole and a contrasting light brown outsole, offering a blend of comfort and casual elegance.",
+  "imageUrl":"/src/assets/images/ProductImages/Footware/women6.jpg",
+  "createdAdminId":1,
+  "categoryId":3,
+  "subCategoryId":7,
+  "productVariants": [
+    {
+      "price":  720,
+      "stock": 10,
+      "attributes": {
+        "brand":"Bata",
+	  "size":"6",
+	  "colour":"PURPLE"
+     }
+    },
+    {
+      "price":  720,
+      "stock": 30,
+      "attributes": {
+        "brand":"Bata",
+	  "size":"7",
+	  "colour":"PURPLE"
+     }
+    },
+    {
+      "price":  720,
+      "stock": 300,
+      "attributes": {
+        "brand":"Bata",
+        "size":"8",
+	  "colour":"PURPLE"
+     }
+    },
+    {
+      "price":  720,
+      "stock": 10,
+      "attributes": {
+        "brand":"Bata",
+        "size":"9",
+	  "colour":"PURPLE"
+      }
+     },
+    {
+      "price":  720,
+      "stock": 0,
+      "attributes": {
+        "brand":"Bata",
+        "size":"10",
+	  "colour":"PURPLE"
+     }
+    }
+  ]
+}

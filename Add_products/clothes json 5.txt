@@ -1,0 +1,450 @@
+[
+  {
+    "name": "Keep Classic Alive Vintage T-shirt",
+    "desc": "This cream-colored T-shirt features a bold black graphic of a classic vintage car. Above the car, the text reads 'KEEP CLASSIC ALIVE VINTAGE'. Below the car, it states 'Live A Modern Life' followed by an inspirational quote about seeking adventure. This comfortable, short-sleeved tee is perfect for fans of classic aesthetics. It blends a nostalgic design with a modern outlook, making it a versatile casual wear item.",
+    "imageUrl": "/src/assets/images/ProductImages/cloths/cloth11.jpeg",
+    "createdAdminId": 1,
+    "categoryId": 2,
+    "subCategoryId": 4,
+    "productVariants": [
+      {
+        "price": 799,
+        "stock": 40,
+        "attributes": {
+          "brand": "Generic",
+          "size": "M",
+          "colour": "Cream"
+        }
+      },
+      {
+        "price": 799,
+        "stock": 30,
+        "attributes": {
+          "brand": "Generic",
+          "size": "L",
+          "colour": "Cream"
+        }
+      },
+      {
+        "price": 799,
+        "stock": 25,
+        "attributes": {
+          "brand": "Generic",
+          "size": "XL",
+          "colour": "Cream"
+        }
+      },
+      {
+        "price": 799,
+        "stock": 15,
+        "attributes": {
+          "brand": "Generic",
+          "size": "S",
+          "colour": "Cream"
+        }
+      },
+      {
+        "price": 799,
+        "stock": 0,
+        "attributes": {
+          "brand": "Generic",
+          "size": "XXL",
+          "colour": "Cream"
+        }
+      },
+      {
+        "price": 849,
+        "stock": 20,
+        "attributes": {
+          "brand": "Generic",
+          "size": "L",
+          "colour": "Black"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Green and White Striped Women's Shirt",
+    "desc": "This women's blouse showcases a striking pattern of wavy green and white stripes. It features a classic pointed collar and a full button-down front with neat white buttons. The long sleeves are finished with buttoned cuffs, adding to its refined look. The shirt appears to be made of a flowy fabric, making it suitable for both professional and smart-casual occasions. It's a vibrant piece that can easily elevate a simple outfit.",
+    "imageUrl": "/src/assets/images/ProductImages/cloths/cloth12.jpeg",
+    "createdAdminId": 1,
+    "categoryId": 2,
+    "subCategoryId": 4,
+    "productVariants": [
+      {
+        "price": 899,
+        "stock": 35,
+        "attributes": {
+          "brand": "Zara",
+          "size": "S",
+          "colour": "Green and White"
+        }
+      },
+      {
+        "price": 899,
+        "stock": 45,
+        "attributes": {
+          "brand": "Zara",
+          "size": "M",
+          "colour": "Green and White"
+        }
+      },
+      {
+        "price": 899,
+        "stock": 20,
+        "attributes": {
+          "brand": "Zara",
+          "size": "L",
+          "colour": "Green and White"
+        }
+      },
+      {
+        "price": 899,
+        "stock": 10,
+        "attributes": {
+          "brand": "Zara",
+          "size": "XL",
+          "colour": "Green and White"
+        }
+      },
+      {
+        "price": 949,
+        "stock": 0,
+        "attributes": {
+          "brand": "Zara",
+          "size": "M",
+          "colour": "Blue and White"
+        }
+      },
+      {
+        "price": 949,
+        "stock": 25,
+        "attributes": {
+          "brand": "Zara",
+          "size": "L",
+          "colour": "Blue and White"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Bewakoof Women's Cotton Solid Straight Fit Jeans",
+    "desc": "These are women's high-rise, ankle-length 'Mom fit' jeans in a light blue wash. They feature classic denim styling with five pockets, belt loops, and a button and zip closure. The relaxed fit through the hip and thigh tapers down to the ankle, offering both comfort and a trendy silhouette. The jeans are versatile and can be styled for various casual looks, as shown with open-toed heels. They are a staple piece for a comfortable yet fashionable wardrobe.",
+    "imageUrl": "/src/assets/images/ProductImages/cloths/cloth13.jpeg",
+    "createdAdminId": 1,
+    "categoryId": 2,
+    "subCategoryId": 4,
+    "productVariants": [
+      {
+        "price": 1299,
+        "stock": 50,
+        "attributes": {
+          "brand": "Bewakoof",
+          "size": "28",
+          "colour": "Light Blue"
+        }
+      },
+      {
+        "price": 1299,
+        "stock": 40,
+        "attributes": {
+          "brand": "Bewakoof",
+          "size": "30",
+          "colour": "Light Blue"
+        }
+      },
+      {
+        "price": 1299,
+        "stock": 30,
+        "attributes": {
+          "brand": "Bewakoof",
+          "size": "32",
+          "colour": "Light Blue"
+        }
+      },
+      {
+        "price": 1299,
+        "stock": 20,
+        "attributes": {
+          "brand": "Bewakoof",
+          "size": "34",
+          "colour": "Light Blue"
+        }
+      },
+      {
+        "price": 1299,
+        "stock": 10,
+        "attributes": {
+          "brand": "Bewakoof",
+          "size": "26",
+          "colour": "Light Blue"
+        }
+      },
+      {
+        "price": 1349,
+        "stock": 0,
+        "attributes": {
+          "brand": "Bewakoof",
+          "size": "32",
+          "colour": "Dark Blue"
+        }
+      }
+    ]
+  },
+  {
+    "name": "BabyGo Half Sleeves Baby Romper",
+    "desc": "This is a baby romper designed with a two-tone appearance. The upper part is maroon with small white polka dots, styled like a collared shirt with short sleeves. The lower half is solid grey, resembling shorts. It features a convenient button-down front for easy dressing and a cute teddy bear appliqué on the left chest. A small, checkered pocket detail is also present on the right side of the grey portion, adding a sweet touch.",
+    "imageUrl": "/src/assets/images/ProductImages/cloths/cloth14.jpeg",
+    "createdAdminId": 1,
+    "categoryId": 2,
+    "subCategoryId": 5,
+    "productVariants": [
+      {
+        "price": 599,
+        "stock": 60,
+        "attributes": {
+          "brand": "BabyGo",
+          "size": "0-3 Months",
+          "colour": "Maroon and Grey"
+        }
+      },
+      {
+        "price": 599,
+        "stock": 50,
+        "attributes": {
+          "brand": "BabyGo",
+          "size": "3-6 Months",
+          "colour": "Maroon and Grey"
+        }
+      },
+      {
+        "price": 599,
+        "stock": 40,
+        "attributes": {
+          "brand": "BabyGo",
+          "size": "6-9 Months",
+          "colour": "Maroon and Grey"
+        }
+      },
+      {
+        "price": 599,
+        "stock": 30,
+        "attributes": {
+          "brand": "BabyGo",
+          "size": "9-12 Months",
+          "colour": "Maroon and Grey"
+        }
+      },
+      {
+        "price": 649,
+        "stock": 25,
+        "attributes": {
+          "brand": "BabyGo",
+          "size": "3-6 Months",
+          "colour": "Blue and White"
+        }
+      },
+      {
+        "price": 649,
+        "stock": 0,
+        "attributes": {
+          "brand": "BabyGo",
+          "size": "6-9 Months",
+          "colour": "Blue and White"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Matilda Jane Tulle Dress",
+    "desc": "This is a charming sleeveless dress for a young girl, featuring a delightful design. The top half is adorned with a vibrant print of flamingos, tropical flowers, and subtle blue and white stripes. The bottom half consists of multiple tiers of soft pink tulle, creating a voluminous and whimsical skirt. The dress has a comfortable scoop neckline and is embellished with a small, colorful rainbow patch on the chest. It's an ideal outfit for playful occasions or adding a touch of sweetness to any day.",
+    "imageUrl": "/src/assets/images/ProductImages/cloths/cloth15.jpeg",
+    "createdAdminId": 1,
+    "categoryId": 2,
+    "subCategoryId": 5,
+    "productVariants": [
+      {
+        "price": 1499,
+        "stock": 30,
+        "attributes": {
+          "brand": "Matilda Jane",
+          "size": "2T",
+          "colour": "Pink and Multi"
+        }
+      },
+      {
+        "price": 1499,
+        "stock": 25,
+        "attributes": {
+          "brand": "Matilda Jane",
+          "size": "3T",
+          "colour": "Pink and Multi"
+        }
+      },
+      {
+        "price": 1499,
+        "stock": 20,
+        "attributes": {
+          "brand": "Matilda Jane",
+          "size": "4T",
+          "colour": "Pink and Multi"
+        }
+      },
+      {
+        "price": 1499,
+        "stock": 15,
+        "attributes": {
+          "brand": "Matilda Jane",
+          "size": "5T",
+          "colour": "Pink and Multi"
+        }
+      },
+      {
+        "price": 1549,
+        "stock": 0,
+        "attributes": {
+          "brand": "Matilda Jane",
+          "size": "3T",
+          "colour": "Blue and Multi"
+        }
+      },
+      {
+        "price": 1549,
+        "stock": 18,
+        "attributes": {
+          "brand": "Matilda Jane",
+          "size": "4T",
+          "colour": "Blue and Multi"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Nauti Nati Ruffled Girls Dress",
+    "desc": "This dress for a young girl is a spectacle of vibrant colors and playful ruffles. It features multiple cascading layers of lightweight fabric, creating a dynamic and flowing silhouette. The colors transition beautifully through various shades, including pink, blue, yellow, and green, giving it a rainbow-like appearance. The round neckline is adorned with delicate, multi-colored floral appliqués, adding an exquisite detail. This sleeveless dress is perfect for festive occasions, exuding joy and elegance.",
+    "imageUrl": "/src/assets/images/ProductImages/cloths/cloth16.jpeg",
+    "createdAdminId": 1,
+    "categoryId": 2,
+    "subCategoryId": 5,
+    "productVariants": [
+      {
+        "price": 1199,
+        "stock": 30,
+        "attributes": {
+          "brand": "Polar Bear",
+          "size": "4-5 Years",
+          "colour": "Multi-color"
+        }
+      },
+      {
+        "price": 1199,
+        "stock": 25,
+        "attributes": {
+          "brand": "Polar Bear",
+          "size": "5-6 Years",
+          "colour": "Multi-color"
+        }
+      },
+      {
+        "price": 1199,
+        "stock": 20,
+        "attributes": {
+          "brand": "Polar Bear",
+          "size": "6-7 Years",
+          "colour": "Multi-color"
+        }
+      },
+      {
+        "price": 1199,
+        "stock": 15,
+        "attributes": {
+          "brand": "Polar Bear",
+          "size": "7-8 Years",
+          "colour": "Multi-color"
+        }
+      },
+      {
+        "price": 1249,
+        "stock": 0,
+        "attributes": {
+          "brand": "Polar Bear",
+          "size": "5-6 Years",
+          "colour": "Pastel Multi-color"
+        }
+      },
+      {
+        "price": 1249,
+        "stock": 10,
+        "attributes": {
+          "brand": "Polar Bear",
+          "size": "6-7 Years",
+          "colour": "Pastel Multi-color"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Kids Plaid Shirt and Khaki Pants Set",
+    "desc": "This is a two-piece outfit for a young boy, consisting of a plaid shirt and solid khaki cargo pants. The long-sleeved shirt features a mix of grey, blue, yellow, and orange plaid patterns, complete with a collar and a single chest pocket. The khaki pants are designed with an elastic waistband for comfort and practical side cargo pockets. This coordinated set offers a smart yet comfortable look, suitable for various casual outings or everyday wear.",
+    "imageUrl": "/src/assets/images/ProductImages/cloths/cloth17.jpeg",
+    "createdAdminId": 1,
+    "categoryId": 2,
+    "subCategoryId": 5,
+    "productVariants": [
+      {
+        "price": 999,
+        "stock": 35,
+        "attributes": {
+          "brand": "Snuggles",
+          "size": "12-18 Months",
+          "colour": "Multi-color Plaid and Khaki"
+        }
+      },
+      {
+        "price": 999,
+        "stock": 30,
+        "attributes": {
+          "brand": "Snuggles",
+          "size": "18-24 Months",
+          "colour": "Multi-color Plaid and Khaki"
+        }
+      },
+      {
+        "price": 999,
+        "stock": 25,
+        "attributes": {
+          "brand": "Snuggles",
+          "size": "2-3 Years",
+          "colour": "Multi-color Plaid and Khaki"
+        }
+      },
+      {
+        "price": 999,
+        "stock": 20,
+        "attributes": {
+          "brand": "Snuggles",
+          "size": "3-4 Years",
+          "colour": "Multi-color Plaid and Khaki"
+        }
+      },
+      {
+        "price": 1049,
+        "stock": 0,
+        "attributes": {
+          "brand": "Snuggles",
+          "size": "18-24 Months",
+          "colour": "Red Plaid and Navy"
+        }
+      },
+      {
+        "price": 1049,
+        "stock": 15,
+        "attributes": {
+          "brand": "Snuggles",
+          "size": "2-3 Years",
+          "colour": "Red Plaid and Navy"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "name": "Samsung Galaxy M05",
+    "desc": "A Samsung Galaxy M05 smartphone featuring a 50MP Dual Camera and a 5000mAh Battery, presented in a light green color. This model is designed for everyday use, focusing on long battery life and good camera capabilities within its segment. It offers a balance of essential features and affordability, making it suitable for users seeking reliable performance for daily tasks and communication.",
+    "imageUrl": "/src/assets/images/ProductImages/Electronics/m1.jpg",
+    "createdAdminId": 1,
+    "categoryId": 1,
+    "subCategoryId": 2,
+    "productVariants": [
+      {
+        "price": 12000,
+        "stock": 150,
+        "attributes": {
+          "brand": "Samsung",
+          "ram": "4GB",
+          "storage": "64GB",
+          "processor": "Snapdragon 680"
+        }
+      },
+      {
+        "price": 14000,
+        "stock": 120,
+        "attributes": {
+          "brand": "Samsung",
+          "ram": "6GB",
+          "storage": "128GB",
+          "processor": "Snapdragon 680"
+        }
+      },
+      {
+        "price": 13000,
+        "stock": 100,
+        "attributes": {
+          "brand": "Samsung",
+          "ram": "4GB",
+          "storage": "128GB",
+          "processor": "MediaTek Helio G85"
+        }
+      },
+      {
+        "price": 15000,
+        "stock": 90,
+        "attributes": {
+          "brand": "Samsung",
+          "ram": "6GB",
+          "storage": "64GB",
+          "processor": "MediaTek Helio G85"
+        }
+      },
+      {
+        "price": 12500,
+        "stock": 0,
+        "attributes": {
+          "brand": "Samsung",
+          "ram": "4GB",
+          "storage": "64GB",
+          "processor": "Exynos 850"
+        }
+      },
+      {
+        "price": 14500,
+        "stock": 70,
+        "attributes": {
+          "brand": "Samsung",
+          "ram": "6GB",
+          "storage": "128GB",
+          "processor": "Exynos 850"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Vivo iQOO Z9 Lite",
+    "desc": "A Vivo iQOO Z9 Lite 5G smartphone, presented in a sleek brown color. This model emphasizes fast connectivity with its 5G capabilities, making it ideal for users who prioritize speed and efficiency in their mobile experience. Its design is both modern and functional, offering a premium feel.",
+    "imageUrl": "/src/assets/images/ProductImages/Electronics/m2.jpg",
+    "createdAdminId": 1,
+    "categoryId": 1,
+    "subCategoryId": 2,
+    "productVariants": [
+      {
+        "price": 18000,
+        "stock": 90,
+        "attributes": {
+          "brand": "Vivo",
+          "ram": "6GB",
+          "storage": "128GB",
+          "processor": "Dimensity 6100+"
+        }
+      },
+      {
+        "price": 20000,
+        "stock": 0,
+        "attributes": {
+          "brand": "Vivo",
+          "ram": "8GB",
+          "storage": "128GB",
+          "processor": "Dimensity 6100+"
+        }
+      },
+      {
+        "price": 22000,
+        "stock": 60,
+        "attributes": {
+          "brand": "Vivo",
+          "ram": "8GB",
+          "storage": "256GB",
+          "processor": "Dimensity 6100+"
+        }
+      },
+      {
+        "price": 19000,
+        "stock": 50,
+        "attributes": {
+          "brand": "Vivo",
+          "ram": "6GB",
+          "storage": "128GB",
+          "processor": "Snapdragon 4 Gen 2"
+        }
+      },
+      {
+        "price": 21000,
+        "stock": 45,
+        "attributes": {
+          "brand": "Vivo",
+          "ram": "8GB",
+          "storage": "128GB",
+          "processor": "Snapdragon 4 Gen 2"
+        }
+      },
+      {
+        "price": 23000,
+        "stock": 40,
+        "attributes": {
+          "brand": "Vivo",
+          "ram": "8GB",
+          "storage": "256GB",
+          "processor": "Snapdragon 4 Gen 2"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra",
+    "desc": "A Samsung Galaxy S24 Ultra smartphone in a sophisticated dark grey, accompanied by an S Pen. This flagship device boasts advanced features and AI capabilities, catering to power users and creative professionals. It combines cutting-edge technology with premium design for an unparalleled mobile experience.",
+    "imageUrl": "/src/assets/images/ProductImages/Electronics/m3.jpg",
+    "createdAdminId": 1,
+    "categoryId": 1,
+    "subCategoryId": 2,
+    "productVariants": [
+      {
+        "price": 100000,
+        "stock": 50,
+        "attributes": {
+          "brand": "Samsung",
+          "ram": "12GB",
+          "storage": "256GB",
+          "processor": "Snapdragon 8 Gen 3 for Galaxy"
+        }
+      },
+      {
+        "price": 110000,
+        "stock": 0,
+        "attributes": {
+          "brand": "Samsung",
+          "ram": "12GB",
+          "storage": "512GB",
+          "processor": "Snapdragon 8 Gen 3 for Galaxy"
+        }
+      },
+      {
+        "price": 120000,
+        "stock": 30,
+        "attributes": {
+          "brand": "Samsung",
+          "ram": "12GB",
+          "storage": "1TB",
+          "processor": "Snapdragon 8 Gen 3 for Galaxy"
+        }
+      },
+      {
+        "price": 105000,
+        "stock": 25,
+        "attributes": {
+          "brand": "Samsung",
+          "ram": "12GB",
+          "storage": "256GB",
+          "processor": "Exynos 2400"
+        }
+      },
+      {
+        "price": 115000,
+        "stock": 20,
+        "attributes": {
+          "brand": "Samsung",
+          "ram": "12GB",
+          "storage": "512GB",
+          "processor": "Exynos 2400"
+        }
+      },
+      {
+        "price": 125000,
+        "stock": 15,
+        "attributes": {
+          "brand": "Samsung",
+          "ram": "12GB",
+          "storage": "1TB",
+          "processor": "Exynos 2400"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Realme Narzo N61",
+    "desc": "A Realme Narzo N61 smartphone in a vibrant light blue color, highlighting its 'Superior Armorshell Protection', IP54 Dust & Water Resistance, and a 90Hz Display. This device is built for durability and smooth user experience, making it a reliable choice for active users. It delivers a blend of robust build quality and fluid visual performance.",
+    "imageUrl": "/src/assets/images/ProductImages/Electronics/m4.jpg",
+    "createdAdminId": 1,
+    "categoryId": 1,
+    "subCategoryId": 2,
+    "productVariants": [
+      {
+        "price": 15000,
+        "stock": 110,
+        "attributes": {
+          "brand": "Realme",
+          "ram": "6GB",
+          "storage": "128GB",
+          "processor": "Helio G99"
+        }
+      },
+      {
+        "price": 17000,
+        "stock": 95,
+        "attributes": {
+          "brand": "Realme",
+          "ram": "8GB",
+          "storage": "128GB",
+          "processor": "Helio G99"
+        }
+      },
+      {
+        "price": 19000,
+        "stock": 0,
+        "attributes": {
+          "brand": "Realme",
+          "ram": "8GB",
+          "storage": "256GB",
+          "processor": "Helio G99"
+        }
+      },
+      {
+        "price": 15500,
+        "stock": 70,
+        "attributes": {
+          "brand": "Realme",
+          "ram": "6GB",
+          "storage": "128GB",
+          "processor": "Dimensity 6020"
+        }
+      },
+      {
+        "price": 17500,
+        "stock": 65,
+        "attributes": {
+          "brand": "Realme",
+          "ram": "8GB",
+          "storage": "128GB",
+          "processor": "Dimensity 6020"
+        }
+      },
+      {
+        "price": 19500,
+        "stock": 60,
+        "attributes": {
+          "brand": "Realme",
+          "ram": "8GB",
+          "storage": "256GB",
+          "processor": "Dimensity 6020"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Motorola Edge 60 Fusion",
+    "desc": "A Motorola Edge 60 Fusion smartphone in a distinct teal color. This model showcases a modern design with a focus on fluid display and a versatile camera system. It is positioned for users who appreciate both aesthetics and performance, offering a smooth and engaging user experience.",
+    "imageUrl": "/src/assets/images/ProductImages/Electronics/m5.jpg",
+    "createdAdminId": 1,
+    "categoryId": 1,
+    "subCategoryId": 2,
+    "productVariants": [
+      {
+        "price": 28000,
+        "stock": 70,
+        "attributes": {
+          "brand": "Motorola",
+          "ram": "8GB",
+          "storage": "128GB",
+          "processor": "Snapdragon 7s Gen 2"
+        }
+      },
+      {
+        "price": 30000,
+        "stock": 60,
+        "attributes": {
+          "brand": "Motorola",
+          "ram": "8GB",
+          "storage": "256GB",
+          "processor": "Snapdragon 7s Gen 2"
+        }
+      },
+      {
+        "price": 32000,
+        "stock": 0,
+        "attributes": {
+          "brand": "Motorola",
+          "ram": "12GB",
+          "storage": "256GB",
+          "processor": "Snapdragon 7s Gen 2"
+        }
+      },
+      {
+        "price": 29000,
+        "stock": 45,
+        "attributes": {
+          "brand": "Motorola",
+          "ram": "8GB",
+          "storage": "128GB",
+          "processor": "Dimensity 8020"
+        }
+      },
+      {
+        "price": 31000,
+        "stock": 40,
+        "attributes": {
+          "brand": "Motorola",
+          "ram": "8GB",
+          "storage": "256GB",
+          "processor": "Dimensity 8020"
+        }
+      },
+      {
+        "price": 33000,
+        "stock": 35,
+        "attributes": {
+          "brand": "Motorola",
+          "ram": "12GB",
+          "storage": "256GB",
+          "processor": "Dimensity 8020"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max",
+    "desc": "An Apple iPhone 16 Pro Max in a luxurious gold finish. This high-end smartphone features an advanced multi-camera system and a large, immersive display, representing the pinnacle of mobile technology. It offers unparalleled performance and sophisticated design for discerning users who demand the best.",
+    "imageUrl": "/src/assets/images/ProductImages/Electronics/m6.jpg",
+    "createdAdminId": 1,
+    "categoryId": 1,
+    "subCategoryId": 2,
+    "productVariants": [
+      {
+        "price": 140000,
+        "stock": 30,
+        "attributes": {
+          "brand": "Apple",
+          "ram": "8GB",
+          "storage": "256GB",
+          "processor": "A18 Bionic"
+        }
+      },
+      {
+        "price": 155000,
+        "stock": 25,
+        "attributes": {
+          "brand": "Apple",
+          "ram": "8GB",
+          "storage": "512GB",
+          "processor": "A18 Bionic"
+        }
+      },
+      {
+        "price": 170000,
+        "stock": 0,
+        "attributes": {
+          "brand": "Apple",
+          "ram": "8GB",
+          "storage": "1TB",
+          "processor": "A18 Bionic"
+        }
+      },
+      {
+        "price": 145000,
+        "stock": 28,
+        "attributes": {
+          "brand": "Apple",
+          "ram": "8GB",
+          "storage": "256GB",
+          "processor": "A17 Pro"
+        }
+      },
+      {
+        "price": 160000,
+        "stock": 23,
+        "attributes": {
+          "brand": "Apple",
+          "ram": "8GB",
+          "storage": "512GB",
+          "processor": "A17 Pro"
+        }
+      },
+      {
+        "price": 175000,
+        "stock": 18,
+        "attributes": {
+          "brand": "Apple",
+          "ram": "8GB",
+          "storage": "1TB",
+          "processor": "A17 Pro"
+        }
+      }
+    ]
+  },
+  {
+    "name": "OnePlus Nord CE4",
+    "desc": "A OnePlus Nord CE4 smartphone in a distinctive light green marble-like finish. This device focuses on delivering a smooth and efficient performance, typical of the Nord series, designed for users who seek a balanced smartphone experience. Its unique back panel design adds a touch of individuality to its modern aesthetics.",
+    "imageUrl": "/src/assets/images/ProductImages/Electronics/m7.jpg",
+    "createdAdminId": 1,
+    "categoryId": 1,
+    "subCategoryId": 2,
+    "productVariants": [
+      {
+        "price": 25000,
+        "stock": 80,
+        "attributes": {
+          "brand": "OnePlus",
+          "ram": "8GB",
+          "storage": "128GB",
+          "processor": "Snapdragon 7 Gen 3"
+        }
+      },
+      {
+        "price": 27000,
+        "stock": 70,
+        "attributes": {
+          "brand": "OnePlus",
+          "ram": "8GB",
+          "storage": "256GB",
+          "processor": "Snapdragon 7 Gen 3"
+        }
+      },
+      {
+        "price": 29000,
+        "stock": 60,
+        "attributes": {
+          "brand": "OnePlus",
+          "ram": "12GB",
+          "storage": "256GB",
+          "processor": "Snapdragon 7 Gen 3"
+        }
+      },
+      {
+        "price": 25500,
+        "stock": 55,
+        "attributes": {
+          "brand": "OnePlus",
+          "ram": "8GB",
+          "storage": "128GB",
+          "processor": "Dimensity 7050"
+        }
+      },
+      {
+        "price": 27500,
+        "stock": 0,
+        "attributes": {
+          "brand": "OnePlus",
+          "ram": "8GB",
+          "storage": "256GB",
+          "processor": "Dimensity 7050"
+        }
+      },
+      {
+        "price": 29500,
+        "stock": 45,
+        "attributes": {
+          "brand": "OnePlus",
+          "ram": "12GB",
+          "storage": "256GB",
+          "processor": "Dimensity 7050"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Redmi 13 5G",
+    "desc": "A Redmi 13 5G smartphone in a soft pink hue, featuring a prominent 'Redmi 13 5G' branding on its display. This device is geared towards providing reliable 5G connectivity and a user-friendly experience at an accessible price point. Its appealing color and focus on essential features make it a great option for everyday use and staying connected.",
+    "imageUrl": "/src/assets/images/ProductImages/Electronics/m8.jpg",
+    "createdAdminId": 1,
+    "categoryId": 1,
+    "subCategoryId": 2,
+    "productVariants": [
+      {
+        "price": 16000,
+        "stock": 130,
+        "attributes": {
+          "brand": "Redmi",
+          "ram": "6GB",
+          "storage": "128GB",
+          "processor": "Snapdragon 4 Gen 2"
+        }
+      },
+      {
+        "price": 18000,
+        "stock": 0,
+        "attributes": {
+          "brand": "Redmi",
+          "ram": "8GB",
+          "storage": "128GB",
+          "processor": "Snapdragon 4 Gen 2"
+        }
+      },
+      {
+        "price": 20000,
+        "stock": 90,
+        "attributes": {
+          "brand": "Redmi",
+          "ram": "8GB",
+          "storage": "256GB",
+          "processor": "Snapdragon 4 Gen 2"
+        }
+      },
+      {
+        "price": 16500,
+        "stock": 85,
+        "attributes": {
+          "brand": "Redmi",
+          "ram": "6GB",
+          "storage": "128GB",
+          "processor": "Dimensity 6100+"
+        }
+      },
+      {
+        "price": 18500,
+        "stock": 75,
+        "attributes": {
+          "brand": "Redmi",
+          "ram": "8GB",
+          "storage": "128GB",
+          "processor": "Dimensity 6100+"
+        }
+      },
+      {
+        "price": 20500,
+        "stock": 65,
+        "attributes": {
+          "brand": "Redmi",
+          "ram": "8GB",
+          "storage": "256GB",
+          "processor": "Dimensity 6100+"
+        }
+      }
+    ]
+  }
+]
